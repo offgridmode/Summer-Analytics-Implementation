@@ -7,3 +7,8 @@ I will perform demo practicals of steps involved in Handling Data in Machine Lea
 1. Handling Outliers:
    -> Z-score
    -> IQR lower and Upper Value
+2. Handling Categorical Variables
+   ->One Hot Encoding
+   ->Ordinal Encoding
+   ->Target Guided Ordinal Encoding
+   ->Mean Ordinal Encoding
