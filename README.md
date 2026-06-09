@@ -4,11 +4,13 @@
 
 I will perform demo practicals of steps involved in Handling Data in Machine Learning.
 
-1. Handling Outliers:
-   -> Z-score
-   -> IQR lower and Upper Value
+1. Handling Outliers:<br>
+   -> Z-score<br>
+   -> IQR lower and Upper Value<br>
 2. Handling Categorical Variables
+<br>
    ->One Hot Encoding
-   ->Ordinal Encoding
-   ->Target Guided Ordinal Encoding
-   ->Mean Ordinal Encoding
+   <br>
+   ->Ordinal Encoding<br>
+   ->Target Guided Ordinal Encoding<br>
+   ->Mean Ordinal Encoding<br>
