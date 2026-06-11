@@ -17,4 +17,4 @@ I will perform demo practicals of steps involved in Handling Data in Machine Lea
 → Using Scikit-Learn Library
 → On Diabetes DataSet
 →Analyzed Performance Metrics:
-   -R2Score,MSE,MAE,RMSE on prediction    outcome
+   -R2Score, MSE, MAE, RMSE on prediction    outcome
