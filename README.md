@@ -13,7 +13,6 @@ I will perform demo practicals of steps involved in Handling Data in Machine Lea
    ->Target Guided Ordinal Encoding<br>
    ->Mean Ordinal Encoding
 <br>
-<br>
 3. Performed Practical Implementation of Linear Regression Model
 → Using Scikit-Learn Library
 → On Diabetes DataSet
